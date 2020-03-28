@@ -1,0 +1,2 @@
+# ImOi.com
+site static
